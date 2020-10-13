@@ -1,0 +1,68 @@
+sudo pip3 install ChatterBot
+pip3 install --upgrade chatterbot
+pip3 install --upgrade chatterbot_corpus
+
+
+instalar  tradultor
+sudo pip3 install googletrans
+
+instalar pygame
+sudo pip3 install pygame
+
+instalar open vc 
+https://www.pyimagesearch.com/2018/05/28/ubuntu-18-04-how-to-install-opencv/
+
+
+instalar serial 
+ sudo apt-get install python3-serial
+
+
+instalr open vc
+sudo pip install opencv-python
+
+
+
+
+instalar SpeechRecognition
+
+
+
+sudo apt-get install portaudio19-dev
+
+
+pip install SpeechRecognition
+
+pip install pyaudio 
+
+
+
+installar fala
+
+sudo pip install gTTS
+sudo apt-get install mpg321
+Digitar no mate:
+sudo apt-get install python3-pip
+
+#######criar executavel que inicializa no iniciação
+
+touch exemplo1.sh
+chmod 777 exemplo1.sh
+
+detro do arquivo colocar :
+######################################################
+cd roll
+cd roll
+python3 visao.py > /home/rogerio/Desktop/roll/                              roll/visao/log.txt &
+python3 roll.py  > /home/rogerio/Desktop/roll/roll/roll/log.txt  
+##########################################################
+digitar "crontab -e " no terminal 
+e incluir:
+
+@reboot sh /home/pi/Desktop/roll.sh &
+#@reboot sudo python3 /home/pi/Desktop/roll/roll/roll.py & > /home/pi/Desktop/r$
+#@reboot sudo python3 /home/pi/Desktop/roll/roll/visao.py &  > /home/pi/Desktop$
+#@reboot sh /home/pi/Desktop/roll.sh &
+
+
+
+
